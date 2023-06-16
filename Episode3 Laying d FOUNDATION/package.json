@@ -1,7 +1,8 @@
 {
-  "name": "foundation",
+  "name": "food_delivery_app",
   "version": "1.0.0",
   "description": "React js NPM NPX concepts",
+  
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -28,5 +29,6 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "main": "App.js"
 }
