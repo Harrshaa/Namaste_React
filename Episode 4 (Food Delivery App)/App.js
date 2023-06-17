@@ -40,7 +40,7 @@ import ReactDOM from 'react-dom/client';
              <h3>{props.resName}</h3>
              <h4>{props.cuisine}</h4>
              <h4>4.4 Stars</h4>
-             <h4>38 Minutes</h4>
+             <h4>40 Minutes</h4>
         </div>
     )
 
